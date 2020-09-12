@@ -23,6 +23,22 @@ h1 {
 
 p {
     position: relative;
+    top: 180px;
+    left: 200px;
+    bottom: 50px;
+    text-align: center;
+    font-size: 32px;
+    font-weight: 700;
+    height: 50px;
+    width: 400px;
+    color: white;
+    background-color: rgb(15, 15, 56);
+    border: rgb(132, 132, 163) solid 3px;
+    letter-spacing: 5px;
+}
+
+#roles {
+    position: relative;
     top: 100px;
     left: 760px;
     bottom: 50px;
@@ -66,4 +82,20 @@ a {
     border: none;
     box-shadow: rgb(132, 132, 163) 4px 3px;
     color: white;
+}
+
+.campeões {
+    width: 600px;
+    left: 110px;
+    position: relative;
+    margin-top: 200px;
+    margin-left: 0px;
+    border-radius: 50%;
+}
+
+.runas {
+    position: relative;
+    left: 400px;
+    top: 20px;
+    width: 600px;
 }
