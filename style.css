@@ -137,3 +137,34 @@ a {
 #escrito {
     top: 0px;
 }
+
+hr {
+    position: relative;
+    top: 150px;
+    z-index: -1;
+}
+
+#info {
+        font-size: 20px;
+        border: none;
+        background-color: initial;
+        font-weight: 400;
+        top: 220px;
+        left: 0px;
+        display: inline;
+}
+
+.info {
+    font-size: 20px;
+    border: none;
+    background-color: initial;
+    font-weight: 400;
+    display: block;
+    left: 0px;
+    width: 650px;
+    bottom: 100px;
+}
+
+#index {
+    top: 220px;
+}
